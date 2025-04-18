@@ -1,2 +1,13 @@
 # Tuberculosis Diagnositic Test Accuracy
- 
+# OBJECTIVE 
+The study evaluates the diagnostic performance of multiple tuberculosis (TB) diagnostic methods, including MTB Gene Xpert, CRP quantitative, CRP semi-quantitative, and Urine LAM, using culture as the gold standard. Various measures of diagnostic accuracy, including sensitivity, specificity, positive predictive value (PPV), and negative predictive value (NPV), were computed to assess the reliability and effectiveness of these tests
+
+# RESULTS
+The MTB Gene Xpert test demonstrated a moderate sensitivity of 52.0% (95% CI: 44.6–59.3, p = 0.033), indicating that it correctly identified approximately half of the true positive cases. However, it exhibited a high specificity of 95.9% (95% CI: 94.7–96.8, p < 0.001), suggesting strong discriminatory power in detecting true negatives. The PPV was 61.5% (95% CI: 53.5–69.0), indicating that a positive result had a moderate probability of being a true positive. The NPV was 94.1% (95% CI: 92.7–95.2, p = 0.745), reinforcing its reliability in ruling out TB in negative cases.
+
+
+CRP quantitative testing demonstrated a higher sensitivity of 59.4% (95% CI: 52.0–66.4) compared to MTB Gene Xpert, indicating an improved ability to detect true positives. However, its specificity was significantly lower at 76.2% (95% CI: 73.9–78.4), suggesting a higher rate of false positives. The PPV was notably low at 23.9% (95% CI: 20.1–28.1), whereas the NPV remained high at 93.7% (95% CI: 92.2–95.0). These findings suggest that while CRP quantitative testing improves sensitivity, it does so at the cost of specificity.
+
+For CRP semi-quantitative testing, sensitivity was found to be the highest among the individual tests at 69.0% (95% CI: 62.0–75.5, p < 0.001), indicating a stronger ability to detect TB cases. The specificity was 67.6% (95% CI: 65.1–70.0, p < 0.001), a moderate level compared to the other tests. The PPV was 21.1% (95% CI: 18.0–24.6), reflecting a high proportion of false positives, while the NPV remained high at 94.6% (95% CI: 93.0–95.8, p < 0.001), reinforcing its effectiveness in ruling out TB.
+
+Urine LAM testing exhibited the lowest sensitivity at 33.1% (95% CI: 26.6–40.4), indicating that it failed to detect a significant proportion of true positive cases. However, its specificity was high at 94.6% (95% CI: 93.3–95.7), suggesting a strong ability to correctly identify negative cases. The PPV was 43.6% (95% CI: 35.5–52.1), and the NPV was 91.8% (95% CI: 90.3–93.2), further confirming its high reliability in ruling out TB in negative cases. These results indicate that Urine LAM testing is highly specific but lacks sensitivity, limiting its utility in early detection.
